@@ -12,7 +12,7 @@ RenderSystem=Legacy_RenderSystem
 Format="XCL html5 Style"
 Author=Twitter Bootstrap - marine/mistgreen
 ScreenShot="screenshot.png"
-Description="Responsive Web Design and TwitterBootstrap"
+Description="Responsive Web Design and TwitterBootstrap for multimenu"
 W3C=YES
 
 Licence="MIT"
